@@ -1,4 +1,4 @@
 # 2ndlaw
 Discussion about the second law of thermodynamics
 
-Link test to [Article](Article.pdf)
+Direct link to [Article](https://azouhr.github.io/2ndlaw/Article.pdf)
